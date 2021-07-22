@@ -1,0 +1,52 @@
+.card-1 {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/reusable-banners-card-1-bg.png');
+  background-size: cover;
+}
+
+.card-2 {
+  display: flex;
+  justify-content: flex-end;
+  background-image: url('https://assets.ccbp.in/frontend/react-js/reusable-banners-card-2-bg.png');
+  background-size: cover;
+}
+
+.card-3 {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  background-image: url('https://assets.ccbp.in/frontend/react-js/reusable-banners-card-3-bg.png');
+  background-size: cover;
+}
+
+/* Write your code here. */
+.main-heading {
+  color: #326a9d;
+  font-family: 'Roboto';
+  font-size: 34px;
+  font-weight: bold;
+}
+.para {
+  color: #64748b;
+  font-family: 'Roboto';
+}
+.mini-container {
+  padding: 50px;
+}
+.container {
+  border-width: 2px;
+  border-style: solid;
+  border-color: #7e858e66;
+  border-radius: 5px;
+  margin-bottom: 15px;
+}
+.button {
+  border: 0px;
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 5px;
+  padding: 8px;
+  border-color: #326a9d;
+  font-weight: bold;
+  color: #326a9d;
+  background-color: transparent;
+}
